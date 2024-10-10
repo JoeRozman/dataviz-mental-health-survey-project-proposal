@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey, a mental health survey dataset which contains data from a multitude of different universities via a survey.
+The data I propose to visualize for my project is [this dataset](https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey), a mental health survey dataset which contains data from a multitude of different universities via a survey.
 
 
 ## Questions & Tasks
@@ -24,26 +24,16 @@ The following tasks and questions will drive the visualization and interaction d
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+[![image](./sketch.png)
 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a pie chart and it shows the general structure of how I want the pie chart to look for each of the academic years based on what attribute the user wants to visualize
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![Mental Health Pie Chart](./Mental%20Health%20Pie%20Chart.png)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)]([https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4](https://vizhub.com/JoeRozman/338ba401e2b2473a87139a0ccb65dc66?edit=files&file=README.md&tabs=index.js%7EREADME.md))
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+The Vizhub for this chart can be found [here](https://vizhub.com/JoeRozman/338ba401e2b2473a87139a0ccb65dc66?edit=files&file=README.md&tabs=index.js%7EREADME.md)
 
 ## Open Questions
 
