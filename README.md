@@ -9,10 +9,16 @@ The data I propose to visualize for my project is ...
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * I want to see the correlation with academic workload and
+  social relationships
+ * I want to see the correlation with academic pressure and
+  depression
+ * I want to see the correlation with academic year and
+  future insecurity
+ * I want to see the distribution of majors to academic
+  pressure
+ * I want to see the correlation with university and academic
+  pressure
 
 ## Sketches
 
@@ -33,7 +39,7 @@ You can put images into here by pasting them into issues.
 You can make images into links like this:
 
 ```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)]([https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4](https://vizhub.com/JoeRozman/338ba401e2b2473a87139a0ccb65dc66?edit=files&file=README.md&tabs=index.js%7EREADME.md))
 ```
 
 
