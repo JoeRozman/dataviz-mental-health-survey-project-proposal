@@ -37,7 +37,7 @@ The Vizhub for this chart can be found [here](https://vizhub.com/JoeRozman/338ba
 
 ## Open Questions
 
-My biggest worry at the moment is implementing the selector for the multiple metrics, as well as having the visualization formatted for a nice user experience.
+My biggest worry at the moment is time management, as I am working full time while creating this project and I want to put in the most effort I can as this is an important project to me. As for implementation worries, my biggest worry is implementing the selector for the multiple metrics, as well as having the visualization formatted for a nice user experience.
 
 ## Milestones
 
