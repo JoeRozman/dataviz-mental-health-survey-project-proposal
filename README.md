@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey, a mental health survey dataset which contains data from a multitude of different universities via a survey.
 
 
 ## Questions & Tasks
