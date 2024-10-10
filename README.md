@@ -29,7 +29,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a pie chart and it shows the general structure of how I want the pie chart to look for each of the academic years based on what attribute the user wants to visualize
+I’ve created a proof of concept visualization of this data. It's a pie chart and it shows the general structure of how I want the pie chart to look for each of the academic years based on what metric the user wants to visualize
 
 ![Mental Health Pie Chart](./Mental%20Health%20Pie%20Chart.png)
 
@@ -37,8 +37,16 @@ The Vizhub for this chart can be found [here](https://vizhub.com/JoeRozman/338ba
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+My biggest worry at the moment is implementing the selector for the multiple metrics, as well as having the visualization formatted for a nice user experience.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 1: Implement the Pie Chart with labeling (either a legend or labeling within the chart itself)
+
+Week 2: Implement the metric selector
+
+Week 3: Implement the university selector
+
+Week 4: Configure the visualization for the user experience
+
+Week 5: Debug and work on finishing touches
