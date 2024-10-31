@@ -43,10 +43,15 @@ My biggest worry at the moment is time management, as I am working full time whi
 
 Week 1: Implement the Pie Chart with labeling (either a legend or labeling within the chart itself)
 
-Week 2: Implement the metric selector
+Week 2: ~~Implement the metric selector~~ Implement selectors for attributes and metrics
 
-Week 3: Implement the university selector
+Week 3: ~~Implement the university selector~~ Decide if data should use all metrics or should use universities as metrics
 
 Week 4: Configure the visualization for the user experience
 
 Week 5: Debug and work on finishing touches
+
+### New Vizes
+Initial Viz for week one [here](https://vizhub.com/JoeRozman/338ba401e2b2473a87139a0ccb65dc66)
+
+Viz for week two [here](https://vizhub.com/JoeRozman/7bb7dfb4abe142fba5cac5334c3f0ed9?edit=files&file=index.js&tabs=index.js%7EchartStyles.css%7EMentalHealthSurvey.csv)
