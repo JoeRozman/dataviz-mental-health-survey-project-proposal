@@ -47,7 +47,7 @@ Week 2: ~~Implement the metric selector~~ Implement selectors for attributes and
 
 Week 3: ~~Implement the university selector~~ Decide if data should use all metrics or should use universities as metrics
 
-Week 4: Configure the visualization for the user experience
+Week 4: ~~Configure the visualization for the user experience~~ Incorporate university selector
 
 Week 5: Debug and work on finishing touches
 
@@ -55,3 +55,5 @@ Week 5: Debug and work on finishing touches
 Initial Viz for week one [here](https://vizhub.com/JoeRozman/338ba401e2b2473a87139a0ccb65dc66)
 
 Viz for week two [here](https://vizhub.com/JoeRozman/7bb7dfb4abe142fba5cac5334c3f0ed9?edit=files&file=index.js&tabs=index.js%7EchartStyles.css%7EMentalHealthSurvey.csv)
+
+Viz for week three [here](https://vizhub.com/JoeRozman/0d687f77473e4ebd90b71c5a00cfedbd?edit=files&file=README.md)
