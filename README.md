@@ -63,3 +63,5 @@ Viz for week three [here](https://vizhub.com/JoeRozman/7bb7dfb4abe142fba5cac5334
 Viz for week four [here](https://vizhub.com/JoeRozman/0d687f77473e4ebd90b71c5a00cfedbd?edit=files&file=README.md)
 
 Viz for week five [here](https://vizhub.com/JoeRozman/9856e206f5074053a5d729f79a782827)
+
+Viz for week six [here](https://vizhub.com/JoeRozman/441ca0e851334323ac286ccae40223d8)
