@@ -35,6 +35,28 @@ I’ve created a proof of concept visualization of this data. It's a pie chart a
 
 The Vizhub for this chart can be found [here](https://vizhub.com/JoeRozman/338ba401e2b2473a87139a0ccb65dc66?edit=files&file=README.md&tabs=index.js%7EREADME.md)
 
+## Chart Revisions
+
+![Mental Health Pie Chart V1](./Mental_Health_Pie_Chart_V1.png)
+
+Created basic legend
+
+![Mental Health Pie Chart V2](./Mental_Health_Pie_Chart_V2.png)
+
+Added dropdown for attributes and metrics
+
+![Mental Health Pie Chart V3](./Mental_Health_Pie_Chart_V3.png)
+
+Added dropdown for universities
+
+![Mental Health Pie Chart V4](./Mental_Health_Pie_Chart_V4.png)
+
+Added option for all universities data
+
+![Mental Health Pie Chart V5](./Mental_Health_Pie_Chart_V5.png)
+
+Styling and polishing for user experience
+
 ## Open Questions
 
 My biggest worry at the moment is time management, as I am working full time while creating this project and I want to put in the most effort I can as this is an important project to me. As for implementation worries, my biggest worry is implementing the selector for the multiple metrics, as well as having the visualization formatted for a nice user experience.
