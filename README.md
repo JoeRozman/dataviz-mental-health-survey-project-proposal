@@ -51,7 +51,7 @@ Added dropdown for universities
 
 ![Mental Health Pie Chart V4](./Mental_Health_Pie_Chart_V4.png)
 
-Added option for all universities data
+Added option for all universities data, added hovering to pie slices
 
 ![Mental Health Pie Chart V5](./Mental_Health_Pie_Chart_V5.png)
 
