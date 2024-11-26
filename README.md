@@ -55,7 +55,7 @@ Added option for all universities data
 
 ![Mental Health Pie Chart V5](./Mental_Health_Pie_Chart_V5.png)
 
-Styling and polishing for user experience
+Added reset button, styling and polishing for user experience
 
 ## Open Questions
 
