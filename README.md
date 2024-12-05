@@ -57,6 +57,8 @@ During the fourth iteration I added option for all universities data and added h
 
 ![Mental Health Pie Chart V5](./Mental_Health_Pie_Chart_V5.png)
 
+![Mental Health Pie Chart V5](./Mental_Health_Pie_Chart_V5_hover.png)
+
 During the fifth and final iteration I added a reset button, improved the slice hovering, and improved the styling and polishing for user experience
 
 ## Open Questions
