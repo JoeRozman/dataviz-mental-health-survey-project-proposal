@@ -39,23 +39,25 @@ The Vizhub for this chart can be found [here](https://vizhub.com/JoeRozman/338ba
 
 ![Mental Health Pie Chart V1](./Mental_Health_Pie_Chart_V1.png)
 
-Created basic legend
+During the first iteration I created the basic legend along with the chart
 
 ![Mental Health Pie Chart V2](./Mental_Health_Pie_Chart_V2.png)
 
-Added dropdown for attributes and metrics
+During the second iteration I added the dropdowns for attributes and metrics
 
 ![Mental Health Pie Chart V3](./Mental_Health_Pie_Chart_V3.png)
 
-Added dropdown for universities
+During the third iteration I added dropdown for universities
 
 ![Mental Health Pie Chart V4](./Mental_Health_Pie_Chart_V4.png)
 
-Added option for all universities data, added hovering to pie slices
+![Mental Health Pie Chart V4](./Mental_Health_Pie_Chart_V4_hover.png)
+
+During the fourth iteration I added option for all universities data and added hovering to pie slices
 
 ![Mental Health Pie Chart V5](./Mental_Health_Pie_Chart_V5.png)
 
-Added reset button, styling and polishing for user experience
+During the fifth and final iteration I added a reset button, improved the slice hovering, and improved the styling and polishing for user experience
 
 ## Open Questions
 
